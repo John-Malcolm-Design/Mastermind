@@ -17,9 +17,14 @@ void headerAndLevelChoice(){
     
     // Header
     printf("***************************************************************************\n");
-    printf("*                                Mastermind                               *\n");
-    printf("*                         By John Malcolm Anderson                        *\n");
-    printf("*                                   2015                                  *\n");
+    printf("*                                                                         *\n");
+    printf("*                          M A S T E R M I N D                            *\n");
+    printf("*                                                                         *\n");
+    printf("*                         by John Malcolm Anderson                        *\n");
+    printf("*                                  2015                                   *\n");
+    printf("*                                                                         *\n");
+    printf("*                https://github.com/johnmalcolm/Mastermind                *\n");
+    printf("*                                                                         *\n");
     printf("***************************************************************************\n\n");
     printf("Mastermind is a game where the object is to\n");
     printf("guess the order of four prearranged pegs\n");
